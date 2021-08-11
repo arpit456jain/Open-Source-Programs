@@ -5,7 +5,7 @@ I am planning to list some good and beginner friendly open source programs and t
 |---|---|---|--|
 |||||
 
-### Need help in [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
+## Need help in [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## 💬Join Our CodeSmashers Community
 
