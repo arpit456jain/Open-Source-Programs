@@ -8,7 +8,7 @@ I am planning to list some good and beginner friendly open source programs and t
 |[GirlScript Winter of Contributing (GWOC)](https://gwoc.girlscript.tech/)|GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation| 1st Aug-1st Dec | [TimeLine](https://gwoc.girlscript.tech/#timeline-heading) | ash Prize to top contributors and Certificates and Swags |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) |Open source is changing the world - one pull request at a time.| 1Oct-31st Oct| [TimeLine](https://hacktoberfest.digitalocean.com/details) | T-shirt |
 | [Delta Winter of Code (DWoC)](https://dwoc.io/) | DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. | 18 Oct-31 Jan | [TimeLine](https://dwoc.io/#timeline) | Certificates and Swags |
-|[Script Winter of Code SWOC](https://swoc.tech/)|Script Winter of Code is an open-source program envisioned by the Script Foundation.|1 nov-15 march | [TimeLine](https://swoc.tech/index.html#timeline) | perks and opportunities. |
+|[Script Winter of Code SWOC](https://swoc.scriptindia.org/#/)|Script Winter of Code is an open-source program envisioned by the Script Foundation.|1 nov-15 march | [TimeLine](https://swoc.scriptindia.org/#/#timeline) | perks and opportunities. |
 
 # Must Check These Repos Also
 - [Cool Front-End Templates ](https://github.com/arpit456jain/Cool-Front-End_Templates)
