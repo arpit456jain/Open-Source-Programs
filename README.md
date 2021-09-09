@@ -9,6 +9,7 @@ I am planning to list some good and beginner friendly open source programs and t
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) |Open source is changing the world - one pull request at a time.| 1Oct-31st Oct| [TimeLine](https://hacktoberfest.digitalocean.com/details) | T-shirt |
 | [Delta Winter of Code (DWoC)](https://dwoc.io/) | DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. | 18 Oct-31 Jan | [TimeLine](https://dwoc.io/#timeline) | Certificates and Swags |
 |[Script Winter of Code SWOC](https://swoc.scriptindia.org/#/)|Script Winter of Code is an open-source program envisioned by the Script Foundation.|1 nov-15 march | [TimeLine](https://swoc.scriptindia.org/#/#timeline) | perks and opportunities. |
+|[NJACK Winter of Code](https://njackwinterofcode.github.io/)|NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science Club of IIT Patna)| 22 Oct - 10 Jan| [TimeLine](https://njackwinterofcode.github.io/timeline.html) | Swags |
 
 # Must Check These Repos Also
 - [Cool Front-End Templates ](https://github.com/arpit456jain/Cool-Front-End_Templates)
