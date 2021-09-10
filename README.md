@@ -18,8 +18,8 @@ I am planning to list some good and beginner friendly open source programs and t
 - [Amazing Css effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 - [Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects)
 - [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
-- [Open-Source-Programs](https://github.com/arpit456jain/Open-Source-Programs)
 
+## Getting Started with open source [click here](https://github.com/arpit456jain/Getting-Started-with-open-source)
 ## Need help in [DSA-Path-And-Important-Questions](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## 💬Join Our CodeSmashers Community
