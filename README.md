@@ -30,7 +30,7 @@ I am planning to list some good and beginner friendly open source programs and t
   <br /><img src = "images/fork.png" /> <br />
 
 - clone the repository using Git command <br />
-  <br/> <img src="images/clone.png" />
+  <br/> <img src="images/clone.png" /> <br/>
   &nbsp; git clone https://github.com/{github_username}/Open-Source-Programs.git
 - move to the newly created folder using
   Git command <br />
