@@ -47,10 +47,13 @@ I am planning to list some good and beginner friendly open source programs and t
 - to push your changes to github. Use command
 <br/> &nbsp; ```git push origin new_branch_name``` 
 
-## Raising Your 1st PR
+## Raising Your 1st PR <br/>
 
-After pushing your code, go to the forked repository and click on pull request.
-
+- After pushing your code, go to the forked repository. There you will see change like this. <br />
+ <br><img src="images/pullreq.png"/>
+- click on compare and pull request. Such page will appear. Write meaningfull message and title which describes your changes<br/>
+<br/> <img src="images/PR.png"/>
+- click on create pull request. <br/>
 
 
 # Must Check These Repos Also
